@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Planets>
+  <Sun>
+    <Model>Models\Earth</Name>   
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>0</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+    <Position_X>0</Position_X>
+    <Position_Y>-10</Position_Y>
+    <Position_Z>0</Position_Z>
+    <Texture>Textures\Sun</Texture>
+    <Speed>0</Speed>
+    <Radious>0</Radious>
+    <Size>2</Size>
+    <Update>False</Update>
+  </Sun>
+</Planets>
